@@ -1,0 +1,12 @@
+2018-07-09 15:48:09,590 DEBUG logid:000 demo.py +10 fun1  Type some log.
+2018-07-09 15:48:09,590 ERROR logid:000 demo.py +11 fun1  error log
+2018-07-09 15:48:09,590 INFO  logid:000 demo.py +12 fun1  info log
+2018-07-09 15:50:03,827 DEBUG logid:000 demo.py:fun1:+10 Type some log.
+2018-07-09 15:50:03,827 ERROR logid:000 demo.py:fun1:+11 error log
+2018-07-09 15:50:03,828 INFO  logid:000 demo.py:fun1:+12 info log
+2018-07-09 15:50:14,016 DEBUG logid:000 demo.py:fun1:10 Type some log.
+2018-07-09 15:50:14,016 ERROR logid:000 demo.py:fun1:11 error log
+2018-07-09 15:50:14,017 INFO  logid:000 demo.py:fun1:12 info log
+2018-07-09 15:50:35,907 DEBUG logid:000 demo.py:fun1:10 Type some log.
+2018-07-09 15:50:35,907 ERROR logid:000 demo.py:fun1:11 error log
+2018-07-09 15:50:35,908 INFO  logid:000 demo.py:fun1:12 info log

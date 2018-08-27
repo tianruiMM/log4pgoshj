@@ -1,0 +1,2 @@
+2018-07-09 15:50:35,907 ERROR logid:000 demo.py:fun1:11 error log
+2018-07-09 15:50:35,908 INFO  logid:000 demo.py:fun1:12 info log
