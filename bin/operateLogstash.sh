@@ -18,7 +18,7 @@ base_dir="/data0/dorylus/local/gitlab/logs"
 conf_path="/data0/dorylus/pipeline"
 conf_file="$conf_path/logstash.conf"
 # elasticsearch服务
-address="10.13.1.134:9200"
+address="127.0.0.1:9200"
 # logstash docker image
 docker_file="registry.api.weibo.com/weibo_qa_dorylus/logstash:6.3.2"
 # container name
